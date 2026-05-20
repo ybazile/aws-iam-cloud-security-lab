@@ -1,1 +1,21 @@
+This folder contains screenshots documenting each step of my AWS IAM + EC2 Nike scenario project. These images serve as visual proof of the work completed from start to finish, including EC2 setup, IAM configuration, and permission testing.
 
+Screenshots include:
+
+1. Development EC2 instance tags (Env = development)
+2. Production EC2 instance tags (Env = production)
+3. AMI selection for launching EC2 instances
+4. IAM policy details (NikeDevEnvironmentPolicy)
+5. AWS account alias creation (nike-alias-yvebz01)
+6. Creating the IAM user group (nike-dev-group)
+7. Confirmation of user group creation
+8. Creating the IAM user (nike-dev-rodeline)
+9. Reviewing IAM user details before creation
+10. IAM user successfully created with console login
+11. Access denied when attempting to stop the production instance
+12. Successful stop of the development instance
+13. IAM Policy Simulator initial setup
+14. IAM Policy Simulator showing denied actions
+15. IAM user dashboard showing limited access (Service Catalog denied)
+
+These screenshots verify that IAM policies, user groups, users, and EC2 resource permissions were configured correctly as part of the Nike DevOps onboarding scenario.
