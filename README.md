@@ -99,62 +99,62 @@ Below are the screenshots documenting each step of the AWS IAM + EC2 Nike scenar
 ![Development Instance Tags](Screenshots/screenshot1.jpeg)
 
 ### **2. EC2 Instance Tags (Production Instance)**
-![Production Instance Tags](screenshots/screenshot2.jpeg)
+![Production Instance Tags](Screenshots/screenshot2.jpeg)
 
 ---
 
 ### **3. AMI Selection for EC2 Instance**
-![AMI Selection](screenshots/screenshot3.jpeg)
+![AMI Selection](Screenshots/screenshot3.jpeg)
 
 ---
 
 ### **4. IAM Policy Details (Review & Create)**
-![IAM Policy Details](screenshots/screenshot4.jpeg)
+![IAM Policy Details](Screenshots/screenshot4.jpeg)
 
 ---
 
 ### **5. AWS Account Alias Creation**
-![Account Alias](screenshots/screenshot5.jpeg)
+![Account Alias](Screenshots/screenshot5.jpeg)
 
 ---
 
 ### **6. Creating IAM User Group (nike-dev-group)**
-![User Group Creation](screenshots/screenshot6.jpeg)
+![User Group Creation](Screenshots/screenshot6.jpeg)
 
 ### **7. User Group Successfully Created**
-![User Group Created](screenshots/screenshot7.jpeg)
+![User Group Created](Screenshots/screenshot7.jpeg)
 
 ---
 
 ### **8. Creating IAM User (nike-dev-rodeline)**
-![IAM User Creation](screenshots/screenshot8.jpeg)
+![IAM User Creation](Screenshots/screenshot8.jpeg)
 
 ### **9. IAM User Review & Create**
-![IAM User Review](screenshots/screenshot9.jpeg)
+![IAM User Review](Screenshots/screenshot9.jpeg)
 
 ### **10. IAM User Created Successfully**
-![IAM User Created](screenshots/screenshot10.jpeg)
+![IAM User Created](Screenshots/screenshot10.jpeg)
 
 ---
 
 ### **11. Access Denied on Production Instance**
-![Production Stop Denied](screenshots/screenshot11.jpeg)
+![Production Stop Denied](Screenshots/screenshot11.jpeg)
 
 ---
 
 ### **12. Successfully Stopped Development Instance**
-![Development Instance Stopped](screenshots/screenshot12.jpeg)
+![Development Instance Stopped](Screenshots/screenshot12.jpeg)
 
 ---
 
 ### **13. IAM Policy Simulator — Initial State**
-![Policy Simulator Initial](screenshots/screenshot13.jpeg)
+![Policy Simulator Initial](Screenshots/screenshot13.jpeg)
 
 ### **14. IAM Policy Simulator — Denied Results**
-![Policy Simulator Denied](screenshots/screenshot14.jpeg)
+![Policy Simulator Denied](Screenshots/screenshot14.jpeg)
 
 ---
 
 ### **15. IAM User Limited Access (Service Catalog Denied)**
-![IAM User Limited Access](screenshots/screenshot15.jpeg)
+![IAM User Limited Access](Screenshots/screenshot15.jpeg)
 
